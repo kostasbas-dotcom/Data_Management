@@ -6,4 +6,3 @@ conflict_test
 This line is from CONFLICT-TEST
 
 This line is from MAIN.
-main
