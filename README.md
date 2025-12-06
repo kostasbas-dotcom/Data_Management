@@ -2,4 +2,8 @@
 This is my first repository. I am happy
 I am looking forward to learning more.
 #Exam_prep.
+conflict_test
 This line is from CONFLICT-TEST
+
+This line is from MAIN.
+main
